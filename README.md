@@ -1,4 +1,4 @@
-                    tmd.ADME RETORIAL MEMBUAT FILTU
+#TUTORIAL MEMBUAT FILE README.md
 
 1.	Download Git Bash https://git-scm.com/downloads Download sesuai OS masing-masing
 
