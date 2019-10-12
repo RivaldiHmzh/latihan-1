@@ -60,17 +60,21 @@
 
 
 1.	Buatlah repisiory di Github.com dengan nama latihan 1, lalu klik create repository
+
 ![image](https://user-images.githubusercontent.com/56198396/66698056-fce48e80-ed04-11e9-959c-aaaee593f657.png)
 
 
 2.	setelah itu kembali ke Git Bash dengan mengetik perintah git remote add origin [url]
+
 ![image](https://user-images.githubusercontent.com/56198396/66698069-0f5ec800-ed05-11e9-90a7-9c9cc3e8e585.png)
 
 
 3.	lalu untuk menaruh file README.md yang tadi sudah di buat, dengan cara mengetik perintah git push -u origin master
+
 ![image](https://user-images.githubusercontent.com/56198396/66698080-23a2c500-ed05-11e9-94c1-1256053871c1.png)
 
 
 4. 	jika berhasil akan seperti gambar di bawah, dan file README.md sudah berada di reposiory latihan 1 di Github.com yang tadi di buat
+
 ![image](https://user-images.githubusercontent.com/56198396/66698099-459c4780-ed05-11e9-8f78-866506be7b8d.png)
 
